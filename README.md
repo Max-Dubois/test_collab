@@ -1,4 +1,8 @@
+<div align="center">
+  
 # Maxence Dubois
+
+</div>
 
 ## Présentation
 
